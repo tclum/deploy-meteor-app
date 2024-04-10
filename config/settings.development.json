@@ -1,4 +1,9 @@
 {
+  "monti": {
+    "appId": "NPyWMYd9qzgDR2dm5",
+    "appSecret": "fa1fbfc9-e6f6-44c3-8d8b-348568e92fe2"
+  },
+
   "defaultAccounts": [
     { "email": "admin@foo.com", "password": "changeme", "role": "admin" },
     { "email": "john@foo.com", "password": "changeme" }
